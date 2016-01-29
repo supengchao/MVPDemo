@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="okhttp-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kymjs.rxvolley/okhttp/1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kymjs.rxvolley/okhttp/1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kymjs.rxvolley/okhttp/1.0.1/df972643c63a1c406ceb13b9443ef11fdb4cc1dc/okhttp-1.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kymjs.rxvolley/okhttp/1.0.1/df972643c63a1c406ceb13b9443ef11fdb4cc1dc/okhttp-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

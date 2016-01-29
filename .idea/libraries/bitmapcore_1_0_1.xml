@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bitmapcore-1.0.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gallery/build/intermediates/exploded-aar/com.kymjs.rxvolley/bitmapcore/1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/gallery/build/intermediates/exploded-aar/com.kymjs.rxvolley/bitmapcore/1.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kymjs.rxvolley/bitmapcore/1.0.1/b8f6fb26f4963889979ef5e7b615b4a5c0a29fcc/bitmapcore-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

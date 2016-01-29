@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\git-spc\CodeCafe\Codecafe\app\build\intermediates\exploded-aar\Codecafe\nuwa\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="10a1e50c43e9c30fe99989ad72ec84188a1ea29f">
+        <dex dex="D:\git-spc\CodeCafe\Codecafe\app\build\intermediates\pre-dexed\debug\classes-3e38805b7b655650af0ae8e3d9d7aaab1b435e13.jar" />
+    </item>
+
+</items>
