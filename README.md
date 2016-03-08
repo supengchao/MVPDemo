@@ -1,5 +1,7 @@
 # MVPDemo
+
 使用mvp模式实现的工程，包括了RxJava的使用，网络框架使用了RxVolley
+
 ## TheMVP简介
 An Android MVP Architecture Diagram Framwork.      
 怎样从架构级别去搭建一个APP，怎样让他应对日益更改的界面与业务逻辑？        
